@@ -1,0 +1,27 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+acc <- read.csv("Acc.csv")
+cas <- read.csv("Cas.csv")
+veh <- read.csv("Veh.csv")
+```
+
+```{r}
+
+```
+
+```{r}
+head(acc)
+```
+
+```{r}
+head(cas)
+```
+
+```{r}
+head(veh)
+```
+
